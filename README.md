@@ -1,4 +1,4 @@
-##Features
+#Features
 
 Real-time Object Detection: Start real-time detection with a single click.
 
